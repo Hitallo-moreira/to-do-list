@@ -3,7 +3,7 @@ import React, { useState } from "react";
 export default function Todo(props) {
     const [isEditing, setEditing] = useState(false);
     const [newName, setNewName] = useState('');
-
+    
     function handleChange(e) {
         setNewName(e.target.value);
     }
@@ -21,7 +21,7 @@ export default function Todo(props) {
             <label className="todo-label" htmlFor={props.id}>
               New name for {props.name}
             </label>
-            <input id={props.id} className="todo-text" type="text" onChange={handleChange}/>
+            <input id={props.id} className="todo-text" required type="text" onChange={handleChange}/>
           </div>
           <div className="btn-group">
             <button type="button" className="btn todo-cancel" onClick={() => setEditing(false)}>

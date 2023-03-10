@@ -21,7 +21,7 @@ function Form(props) {
                 </label>
             </h2>
             <input
-                type="text"
+                required type="text"
                 id="new-todo-input"
                 className="input input__lg"
                 name="text"
