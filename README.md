@@ -62,3 +62,5 @@ npm run dev
 
 # Editando tarefas
 ![](https://github.com/Hitallo-moreira/to-do-list/blob/main/edit.gif)
+
+# Excluindo tarefas
