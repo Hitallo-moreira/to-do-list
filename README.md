@@ -2,7 +2,7 @@
 <p align="center">
 to-do list feita com React</p>
 
-<p text-align="center">
+<p align="center">
   <a href="#sobre">Instalação</a> • 
   <a href="#instalacao">Instalação</a> • 
   <a href="#tecnologias">Tecnologias utilizadas</a> • 
