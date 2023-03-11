@@ -47,3 +47,11 @@ npm run dev
 <li>JavaScript</li>
 <li>React e nanoid (gerador de IDs para JavaScript)</li>
 </ul>
+
+### Features
+
+- [x] Inclusão de tarefas
+- [x] Edição de tarefas
+- [x] Filtragem de tarefas por status
+- [ ] Tradução dos textos
+- [ ] Remoção de tarefas quando selecionamos o checkbox
