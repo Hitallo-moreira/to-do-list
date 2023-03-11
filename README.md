@@ -10,6 +10,7 @@ to-do list feita com React</p>
 </p>
 <h4 align="center">
 	<a href="https://htodolsist.netlify.app/" target="_blank">To-do list</a>
+	[Opens in new tab](https://htodolsist.netlify.app/)
 </h4>
 
 <h2 id="sobre">Sobre</h2>
