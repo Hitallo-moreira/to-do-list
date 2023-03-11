@@ -59,3 +59,6 @@ npm run dev
 
 # Adicionando tarefas
 ![](https://github.com/Hitallo-moreira/to-do-list/blob/main/add.gif)
+
+# Editando tarefas
+![](https://github.com/Hitallo-moreira/to-do-list/blob/main/edit.gif)
