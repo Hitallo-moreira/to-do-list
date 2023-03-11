@@ -5,9 +5,7 @@ to-do list feita com React</p>
 <!--ts-->
    * [Sobre](#sobre)
    * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-   * [Tecnologias](#tecnologias)
+   * [Tecnologias utilizadas](#tecnologias)
 <!--te-->
 
 <h4 align="center"> 
@@ -37,4 +35,16 @@ npm install
 npm run dev
 ```
 
-<h2>Features</h2>
+<b>Após isso basta pressionar o CTRL e clicar no endereço retornado no terminal:</b>
+
+
+![image](https://user-images.githubusercontent.com/47642635/224452567-78487d30-a283-4d64-a2ef-092a389c52bd.png)
+
+
+<h2 id="tecnologias">Tecnologias utilizadas</h2>
+<ul>
+<li>Html</li>
+<li>Css</li>
+<li>JavaScript</li>
+<li>React e nanoid (gerador de IDs para JavaScript)</li>
+</ul>
