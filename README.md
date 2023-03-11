@@ -3,9 +3,10 @@
 to-do list feita com React</p>
 
 <p align="center">
-  <a href="#sobre">Instalação</a> • 
+  <a href="#sobre">Sobre</a> • 
   <a href="#instalacao">Instalação</a> • 
   <a href="#tecnologias">Tecnologias utilizadas</a> • 
+  <a href="#features">Features</a>
 </p>
 <h4 align="center"> 
 	🚧  Status: Em construção...  🚧
@@ -48,7 +49,7 @@ npm run dev
 <li>React e nanoid (gerador de IDs para JavaScript)</li>
 </ul>
 
-### Features
+<h3 id="features">Features</h3>
 
 - [x] Inclusão de tarefas
 - [x] Edição de tarefas
