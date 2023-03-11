@@ -5,16 +5,16 @@ import Form from "./components/Form";
 import FilterButton from "./components/FilterButton";
 
 const FILTER_MAP = {
-  All: () => true,
-  Active: (task) => !task.completed,
-  Completed: (task) => task.completed
+  Todas: () => true,
+  Ativas: (task) => !task.completed,
+  Completas: (task) => task.completed
 };
 
 const FILTER_NAMES = Object.keys(FILTER_MAP);
 
 function App(props) {
   const [tasks, setTasks] = useState(props.tasks);
-  const [filter, setFilter] = useState('All');
+  const [filter, setFilter] = useState('Todas');
 
   function addTask(name) {
     const newTask = { id: `todo-${nanoid()}`, name, completed: false };
@@ -69,12 +69,12 @@ function App(props) {
     />
   ));
 
-  const tasksNoun = taskList.length !== 1 ? 'tasks' : 'task';
-  const headingText = `${taskList.length} ${tasksNoun} remaining`;
+  const tasksNoun = taskList.length !== 1 ? 'tarefas restantes' : 'tarefa restante';
+  const headingText = `${taskList.length} ${tasksNoun}`;
 
   return (
     <div className="todoapp stack-large">
-      <h1>TodoMatic</h1>
+      <h1>To Do</h1>
       <Form addTask={addTask} />
       <div className="filters btn-group stack-exception">
         {filterList}
