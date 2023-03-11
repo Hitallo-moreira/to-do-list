@@ -9,7 +9,7 @@ to-do list feita com React</p>
   <a href="#features">Features</a>
 </p>
 <h4 align="center"> 
-	🚧  Status: Em construção...  🚧
+	Acesse o projeto em: https://htodolsist.netlify.app/
 </h4>
 
 <h2 id="sobre">Sobre</h2>
