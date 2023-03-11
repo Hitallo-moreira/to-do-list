@@ -56,3 +56,6 @@ npm run dev
 - [x] Filtragem de tarefas por status
 - [ ] Tradução dos textos
 - [ ] Remoção de tarefas quando selecionamos o checkbox
+
+# Adicionando tarefas
+![](https://github.com/Hitallo-moreira/to-do-list/blob/main/add.gif)
