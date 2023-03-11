@@ -2,12 +2,11 @@
 <p align="center">
 to-do list feita com React</p>
 
-<!--ts-->
-   * [Sobre](#sobre)
-   * [Instalação](#instalacao)
-   * [Tecnologias utilizadas](#tecnologias)
-<!--te-->
-
+<p text-align="center">
+  <a href="#sobre">Instalação</a> • 
+  <a href="#instalacao">Instalação</a> • 
+  <a href="#tecnologias">Tecnologias utilizadas</a> • 
+</p>
 <h4 align="center"> 
 	🚧  Status: Em construção...  🚧
 </h4>
