@@ -16,6 +16,7 @@ to-do list feita com React</p>
 <p>To-do list é uma aplicação que tem o objetivo de facilitar a organização das tarefas do dia a dia</p>
 
 <h2 id="instalacao">Instalação</h2>
+<p>Pré-requisitos: Node com versão igual ou superior a 14.18+</p>
 <b>Para baixar e executar o projeto siga as seguintes instruções:</b>
 
 ```
