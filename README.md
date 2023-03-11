@@ -8,8 +8,8 @@ to-do list feita com React</p>
   <a href="#tecnologias">Tecnologias utilizadas</a> • 
   <a href="#features">Features</a>
 </p>
-<h4 align="center"> 
-	Acesse o projeto em: <a href="https://htodolsist.netlify.app/" target="_blank">To-do list</a>
+<h4 align="center">
+	<a href="https://htodolsist.netlify.app/" target="_blank">To-do list</a>
 </h4>
 
 <h2 id="sobre">Sobre</h2>
